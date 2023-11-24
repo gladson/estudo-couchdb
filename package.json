@@ -1,0 +1,16 @@
+{
+  "name": "couchdb_nano",
+  "version": "1.0.0",
+  "description": "Teste de uso do package nano para o CouchDB",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "author": "gladson <gladsonbrito@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "nano": "^10.1.3"
+  }
+}
